@@ -1,0 +1,45 @@
+Spy Portrait 
+-Rookie
+-Infiltrator
+-Cleaner
+-Hacker
+
+Spy Portrait Faction Specific
+
+Mission Documents
+-3 Factions
+-Unaligned
+
+Documents
+-Secrecy
+-Priority
+-Borders
+-Logo
+-Text
+-Signature Box / Start Box
+
+Class Specific Icons
+-Skulls
+-Martinis
+-Lightning Bolt
+
+Menus
+-Folder
+-Pages
+-Tabs
+-Text
+
+Agent Overview Screen
+-KIA Stamp
+-Name/Stats
+-Mission Timer
+
+Other effects 
+-Coffee rings
+-undeveloped polaroids
+-Ink splats
+-Redaction Tape
+
+Splash Screen
+Tutorial/Introduction Screen
+Outside of Folder
