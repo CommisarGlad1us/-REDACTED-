@@ -1,0 +1,4 @@
+We at Worth IT are a group of Computer Games and Computer Science students from the University of Essex who want to make [interesting, new video games]. [Perhaps a bit here about each of us?]
+
+
+<REDACTED> is a spy management simulator, in which the player oversees the assignment of their agents onto mission to further their own agenda. Missions have consequences as the political landscape of the world changes in reaction to your actions, or inactions.
